@@ -1,0 +1,5 @@
+[
+  {"icono":"🌞","nahuatl":"Tonatiuh","espanol":"Sol","audio_url":"audios/tonatiuh.mp3","categoria":"Naturaleza"},
+  {"icono":"🌙","nahuatl":"Metztli","espanol":"Luna","audio_url":"audios/metztli.mp3","categoria":"Naturaleza"},
+  {"icono":"🌽","nahuatl":"Tlaolli","espanol":"Maíz","audio_url":"audios/tlaolli.mp3","categoria":"Naturaleza"}
+]
